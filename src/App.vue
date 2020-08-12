@@ -47,9 +47,9 @@ import Layout from './views/Layout'
 
 export default {
   name: 'App',
-
+//ыыыы
   components: {
-    // HelloWorldcc
+    // HelloWorldccыыпше
     Layout,
   },
 
